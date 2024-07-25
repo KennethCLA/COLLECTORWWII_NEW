@@ -1,0 +1,7 @@
+uploads
+src/data/db_config.php
+.DS_Store
+vendor
+composer.json
+composer.lock
+.env
